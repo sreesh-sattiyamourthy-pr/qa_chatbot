@@ -1,0 +1,17 @@
+Project Name: Simple Q&A Chatbot
+Author: [Your Name]
+Date: [Submission Date]
+
+Dependencies:
+- Python 3.x
+- Django
+- ChatterBot
+- ChatterBot Corpus
+
+Setup Instructions:
+1. Activate virtual environment
+   chatbot_env\Scripts\activate
+2. Install dependencies
+   pip install django chatterbot==1.0.5 chatterbot_corpus
+3. Run chatbot
+   python chatbot_project/chat_terminal.py
